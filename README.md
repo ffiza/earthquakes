@@ -5,5 +5,5 @@ This a simple repository to explore some data from Wikipedia that relates to rec
 ## Showcase
 
 <div align="center">
-    <img src="https://github.com/ffiza/earthquakes/blob/main/reports/figures/earthquakes.png?raw=true" width="650">
+    <img src="https://github.com/ffiza/earthquakes/blob/master/reports/figures/earthquakes.png?raw=true" width="650">
 </div>
